@@ -1,0 +1,1 @@
+# AOC_Hendrick-GuilhermeMiranda_UFRR_LabCircuitos_2024.
